@@ -8,10 +8,6 @@ An AI-powered platform that helps citizens discover relevant government welfare 
 
 <br/>
 
-![Build with Bharat](https://img.shields.io/badge/Build%20with-Bharat%202.0-FF6B35?style=for-the-badge)
-![AI Powered](https://img.shields.io/badge/AI-Powered-1E3A5F?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Prototype-2E8B57?style=for-the-badge)
-
 </div>
 
 ---
