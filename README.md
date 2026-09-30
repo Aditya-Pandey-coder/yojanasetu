@@ -4,7 +4,7 @@
 
 ### Your Bridge from Eligibility to Action
 
-An AI-powered platform that helps citizens discover relevant government welfare schemes, understand eligibility, and receive a clear roadmap for what to do next.
+An AI-powered platform that helps citizens discover relevant government welfare schemes, understand eligibility, and receive a clear roadmap for what to do next
 
 <br/>
 
